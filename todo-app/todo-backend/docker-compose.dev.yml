@@ -1,0 +1,47 @@
+version: '3.8'
+
+services:
+  mongo:
+    image: mongo
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: example
+      MONGO_INITDB_DATABASE: the_database
+    expose:
+      - 27017
+    container_name:
+      mongo_db
+    volumes:
+      - ./mongo/mongo-init.js:/docker-entrypoint-initdb.d/mongo-init.js
+      - mongo_data:/data/db
+
+
+  redis:
+    image: redis
+    expose:
+      - 6379
+    command: ['redis-server', '--appendonly', 'yes'] # Overwrite the CMD
+    volumes:
+      - ./redis_data:/data
+    container_name: cache
+
+
+  app:
+    image: todo-backend-dev
+    build:
+      context: .
+      dockerfile: dev.Dockerfile
+    volumes:
+      - ./:/usr/src/app
+    ports:
+      - 3001:3001
+    links:
+      - redis
+      - mongo_db
+    environment:
+      - MONGO_URL=mongodb://the_username:the_password@mongo_db:27017/the_database
+      - REDIS_URL=redis://cache
+    container_name: todo-backend-dev
+
+volumes:
+  mongo_data:

@@ -1,0 +1,165 @@
+Script started on Mon Nov  1 21:08:53 2021
+]7;file://Ameyas-MacBook-Air.local/Users/ameya/dev/part12-containers-applications/script-answers[1m[7m%[27m[1m[0m                                                                                              ]7;file://Ameyas-MacBook-Air.local/Users/ameya/dev/part12-containers-applications/script-answers]2;ameya@Ameyas-MacBook-Air]1;..cript-answers]7;file://Ameyas-MacBook-Air.local/Users/ameya/dev/part12-containers-applications/script-answers[0m[27m[24m[J[01;32m➜  [36mscript-answers[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hdd[90mocker container stop nginx-runner[39m[33Dd[39mc[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [32Do d d[90mocker container stop nginx-runner[39m[33Dd[39mo[39mc[39mk[39me[39mr[39m [39mc[39mo[39mm[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [24D[90mmit pedantic_elgamal nginx-runner[39m[33D[39mp[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [32Do  [90mmit pedantic_elgamal nginx-runner[39m[33D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [34D[90mntainer stop nginx-runner[39m[25D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [26D[90montainer stop nginx-runner[39m[26D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [27D[90mcontainer stop nginx-runner[39m[27D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [28D[90m container stop nginx-runner[39m[28D[39m-[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [27D[90mcompose -f docker-compose.dev.yml up[39m[36D[39mc[39mo[39mm[39mp[39mo[39ms[39me[39m [39m-[39mf[39m [39md[39mo[39mc[39mk[39me[39mr[39m-[39mc[39mo[39mm[39mp[39mo[39ms[39me[39m.[39md[39me[39mv[39m.[39my[39mm[39ml[39m [39mu[39mp'docker-compose.dev.yml up[25D'docker-compose.dev.yml up[25D[P[25C [26D[P[25C [26D.docker-compose.dev.yml up[25D.docker-compose.dev.yml up[25D/docker-compose.dev.yml up[25Dtdocker-compose.dev.yml up[25Dodocker-compose.dev.yml up[25D[1Cdocker-compose.dev.yml up[25Dodocker-compose.dev.yml up[25D/docker-compose.dev.yml up[25Dtdocker-compose.dev.yml up[25Dodocker-compose.dev.yml up[25D[1Cdocker-compose.dev.yml up[25Dodocker-compose.dev.yml up[25D-docker-compose.dev.yml up[25Dbdocker-compose.dev.yml up[25Dadocker-compose.dev.yml up[25Dcdocker-compose.dev.yml up[25Dkdocker-compose.dev.yml up[25Dedocker-compose.dev.yml up[25Dndocker-compose.dev.yml up[25D[1Cdocker-compose.dev.yml up [K[A[69C[1B[K[A[69C/docker-compose.dev.yml up[A[69C[?1l>[?2004l[1B
+]2;docker-compose -f ../todo/todo-backend/docker-compose.dev.yml up]1;docker-composestat /Users/ameya/dev/part12-containers-applications/todo/todo-backend/docker-compose.dev.yml: no such file or directory
+[1m[7m%[27m[1m[0m                                                                                              ]7;file://Ameyas-MacBook-Air.local/Users/ameya/dev/part12-containers-applications/script-answers]2;ameya@Ameyas-MacBook-Air]1;..cript-answers]7;file://Ameyas-MacBook-Air.local/Users/ameya/dev/part12-containers-applications/script-answers[0m[27m[24m[J[01;31m➜  [36mscript-answers[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hcc[90md script-answers[39m[16Dc[39md[39m [39m.[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [13D[90m.[39m[39m.[?1l>[?2004l
+]2;cd ..]1;cd[1m[7m%[27m[1m[0m                                                                                              ]7;file://Ameyas-MacBook-Air.local/Users/ameya/dev/part12-containers-applications]2;ameya@Ameyas-MacBook-Air]1;..-applications]7;file://Ameyas-MacBook-Air.local/Users/ameya/dev/part12-containers-applications[0m[27m[24m[J[01;32m➜  [36mpart12-containers-applications[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hcc[90md ..[39mc[39md[39m [39mt[39m [90modo-backend[39m[11D[39mo[39md[39mo[39m-[39ma[39mp[39mp[39m[1m/[0m[39m [39m [39m [0m [?1l>[?2004l
+]2;cd todo-app]1;cd[1m[7m%[27m[1m[0m                                                                                              ]7;file://Ameyas-MacBook-Air.local/Users/ameya/dev/part12-containers-applications/todo-app]2;ameya@Ameyas-MacBook-Air]1;..ions/todo-app]7;file://Ameyas-MacBook-Air.local/Users/ameya/dev/part12-containers-applications/todo-app[0m[27m[24m[J[01;32m➜  [36mtodo-app[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hcc[90md todo-app[39m[10Dc[39md[39m [39mt[39mo[39md[39mo[39m-
+[J[1;31mtodo-backend[0m/   [J[1;31mtodo-frontend[0m/[J[A[0m[27m[24m[25Ccd todo-[90mapp[39m[K[39mb[39m [39m [90mackend[39m[39ma[39mc[39mk[39me[39mn[39md[1m/[0m[0m [?1l>[?2004l
+[J]2;cd todo-backend]1;cd[1m[7m%[27m[1m[0m                                                                                              ]7;file://Ameyas-MacBook-Air.local/Users/ameya/dev/part12-containers-applications/todo-app/todo-backend]2;ameya@Ameyas-MacBook-Air]1;../todo-backend]7;file://Ameyas-MacBook-Air.local/Users/ameya/dev/part12-containers-applications/todo-app/todo-backend[0m[27m[24m[J[01;32m➜  [36mtodo-backend[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hll[90ms[39ml[39ms[?1l>[?2004l
+]2;ls -G]1;lsDockerfile             docker-compose.dev.yml package-lock.json      [1m[36mutil[39;49m[0m
+README.md              docker-compose.yml     package.json
+app.js                 [1m[36mmongo[39;49m[0m                  [1m[36mredis[39;49m[0m
+[1m[36mbin[39;49m[0m                    [1m[36mnode_modules[39;49m[0m           [1m[36mroutes[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                              ]7;file://Ameyas-MacBook-Air.local/Users/ameya/dev/part12-containers-applications/todo-app/todo-backend]2;ameya@Ameyas-MacBook-Air]1;../todo-backend]7;file://Ameyas-MacBook-Air.local/Users/ameya/dev/part12-containers-applications/todo-app/todo-backend[0m[27m[24m[J[01;32m➜  [36mtodo-backend[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[H[2J[0m[27m[24m[J[01;32m➜  [36mtodo-backend[00m [01;34mgit:([31mmain[34m) [33m✗[00m [Kdd[90mocker-compose -f ../todo/todo-backend/docker-compose.dev.yml up[39m[63Dd[39mo[39mc[39mk[39me[39mr[39m-[39mc[39mo[39mm[39mp[39mo[39ms[39me[39m [39mf[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [48D [90m-f ../todo/todo-backend/docker-compose.dev.yml up[39m[49D[39m-[39mf[39m [39md[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [45D[90mocker-compose.dev.yml up[39m[24D[39mo[39mc[39mk[39me[39mr[39m-[39mc[39mo[39mm[39mp[39mo[39ms[39me[39m.[39md[39me[39mv[39m.[39my[39mm[39ml[39m [39mu[39mp[?1l>[?2004l
+]2;docker-compose -f docker-compose.dev.yml up]1;docker-compose[33mWARN[0m[0000] Found orphan containers ([todo-backend-app-1]) for this project. If you removed or renamed this service in your compose file, you can run this command with the --remove-orphans flag to clean it up. 
+[1A[1B[0G[?25l[+] Running 1/0
+[34m ⠿ Container todo-backend-mongo-1  Created                                               0.0s
+[0m[?25hAttaching to todo-backend-mongo-1
+[36mtodo-backend-mongo-1  |[0m {"t":{"$date":"2021-11-01T15:40:44.368+00:00"},"s":"I",  "c":"CONTROL",  "id":23285,   "ctx":"thread1","msg":"Automatically disabling TLS 1.0, to force-enable TLS 1.0 specify --sslDisabledProtocols 'none'"}
+[36mtodo-backend-mongo-1  |[0m {"t":{"$date":"2021-11-01T15:40:44.371+00:00"},"s":"I",  "c":"NETWORK",  "id":4915701, "ctx":"thread1","msg":"Initialized wire specification","attr":{"spec":{"incomingExternalClient":{"minWireVersion":0,"maxWireVersion":13},"incomingInternalClient":{"minWireVersion":0,"maxWireVersion":13},"outgoing":{"minWireVersion":0,"maxWireVersion":13},"isInternalClient":true}}}
+[36mtodo-backend-mongo-1  |[0m {"t":{"$date":"2021-11-01T15:40:44.373+00:00"},"s":"W",  "c":"ASIO",     "id":22601,   "ctx":"thread1","msg":"No TransportLayer configured during NetworkInterface startup"}
+[36mtodo-backend-mongo-1  |[0m {"t":{"$date":"2021-11-01T15:40:44.373+00:00"},"s":"I",  "c":"NETWORK",  "id":4648601, "ctx":"thread1","msg":"Implicit TCP FastOpen unavailable. If TCP FastOpen is required, set tcpFastOpenServer, tcpFastOpenClient, and tcpFastOpenQueueSize."}
+[36mtodo-backend-mongo-1  |[0m {"t":{"$date":"2021-11-01T15:40:44.375+00:00"},"s":"W",  "c":"ASIO",     "id":22601,   "ctx":"thread1","msg":"No TransportLayer configured during NetworkInterface startup"}
+[36mtodo-backend-mongo-1  |[0m {"t":{"$date":"2021-11-01T15:40:44.376+00:00"},"s":"I",  "c":"REPL",     "id":5123008, "ctx":"thread1","msg":"Successfully registered PrimaryOnlyService","attr":{"service":"TenantMigrationDonorService","ns":"config.tenantMigrationDonors"}}
+[36mtodo-backend-mongo-1  |[0m {"t":{"$date":"2021-11-01T15:40:44.376+00:00"},"s":"I",  "c":"REPL",     "id":5123008, "ctx":"thread1","msg":"Successfully registered PrimaryOnlyService","attr":{"service":"TenantMigrationRecipientService","ns":"config.tenantMigrationRecipients"}}
+[36mtodo-backend-mongo-1  |[0m {"t":{"$date":"2021-11-01T15:40:44.376+00:00"},"s":"I",  "c":"CONTROL",  "id":4615611, "ctx":"initandlisten","msg":"MongoDB starting","attr":{"pid":1,"port":27017,"dbPath":"/data/db","architecture":"64-bit","host":"b281fa2492c7"}}
+[36mtodo-backend-mongo-1  |[0m {"t":{"$date":"2021-11-01T15:40:44.376+00:00"},"s":"I",  "c":"CONTROL",  "id":23403,   "ctx":"initandlisten","msg":"Build Info","attr":{"buildInfo":{"version":"5.0.3","gitVersion":"657fea5a61a74d7a79df7aff8e4bcf0bc742b748","openSSLVersion":"OpenSSL 1.1.1f  31 Mar 2020","modules":[],"allocator":"tcmalloc","environment":{"distmod":"ubuntu2004","distarch":"aarch64","target_arch":"aarch64"}}}}
+[36mtodo-backend-mongo-1  |[0m {"t":{"$date":"2021-11-01T15:40:44.376+00:00"},"s":"I",  "c":"CONTROL",  "id":51765,   "ctx":"initandlisten","msg":"Operating System","attr":{"os":{"name":"Ubuntu","version":"20.04"}}}
+[36mtodo-backend-mongo-1  |[0m {"t":{"$date":"2021-11-01T15:40:44.376+00:00"},"s":"I",  "c":"CONTROL",  "id":21951,   "ctx":"initandlisten","msg":"Options set by command line","attr":{"options":{"net":{"bindIp":"*"},"security":{"authorization":"enabled"}}}}
+[36mtodo-backend-mongo-1  |[0m {"t":{"$date":"2021-11-01T15:40:44.378+00:00"},"s":"I",  "c":"STORAGE",  "id":22270,   "ctx":"initandlisten","msg":"Storage engine to use detected by data files","attr":{"dbpath":"/data/db","storageEngine":"wiredTiger"}}
+[36mtodo-backend-mongo-1  |[0m {"t":{"$date":"2021-11-01T15:40:44.378+00:00"},"s":"I",  "c":"STORAGE",  "id":22297,   "ctx":"initandlisten","msg":"Using the XFS filesystem is strongly recommended with the WiredTiger storage engine. See http://dochub.mongodb.org/core/prodnotes-filesystem","tags":["startupWarnings"]}
+[36mtodo-backend-mongo-1  |[0m {"t":{"$date":"2021-11-01T15:40:44.378+00:00"},"s":"I",  "c":"STORAGE",  "id":22315,   "ctx":"initandlisten","msg":"Opening WiredTiger","attr":{"config":"create,cache_size=482M,session_max=33000,eviction=(threads_min=4,threads_max=4),config_base=false,statistics=(fast),log=(enabled=true,archive=true,path=journal,compressor=snappy),builtin_extension_config=(zstd=(compression_level=6)),file_manager=(close_idle_time=600,close_scan_interval=10,close_handle_minimum=250),statistics_log=(wait=0),verbose=[recovery_progress,checkpoint_progress,compact_progress],"}}
+[36mtodo-backend-mongo-1  |[0m {"t":{"$date":"2021-11-01T15:40:45.060+00:00"},"s":"I",  "c":"STORAGE",  "id":22430,   "ctx":"initandlisten","msg":"WiredTiger message","attr":{"message":"[1635781245:60191][1:0xffffb8d32980], txn-recover: [WT_VERB_RECOVERY_PROGRESS] Recovering log 2 through 3"}}
+[36mtodo-backend-mongo-1  |[0m {"t":{"$date":"2021-11-01T15:40:45.163+00:00"},"s":"I",  "c":"STORAGE",  "id":22430,   "ctx":"initandlisten","msg":"WiredTiger message","attr":{"message":"[1635781245:163492][1:0xffffb8d32980], txn-recover: [WT_VERB_RECOVERY_PROGRESS] Recovering log 3 through 3"}}
+[36mtodo-backend-mongo-1  |[0m {"t":{"$date":"2021-11-01T15:40:45.256+00:00"},"s":"I",  "c":"STORAGE",  "id":22430,   "ctx":"initandlisten","msg":"WiredTiger message","attr":{"message":"[1635781245:256186][1:0xffffb8d32980], txn-recover: [WT_VERB_RECOVERY | WT_VERB_RECOVERY_PROGRESS] Main recovery loop: starting at 2/52992 to 3/256"}}
+[36mtodo-backend-mongo-1  |[0m {"t":{"$date":"2021-11-01T15:40:45.286+00:00"},"s":"I",  "c":"STORAGE",  "id":22430,   "ctx":"initandlisten","msg":"WiredTiger message","attr":{"message":"[1635781245:286789][1:0xffffb8d32980], txn-recover: [WT_VERB_RECOVERY_PROGRESS] Recovering log 2 through 3"}}
+[36mtodo-backend-mongo-1  |[0m {"t":{"$date":"2021-11-01T15:40:45.312+00:00"},"s":"I",  "c":"STORAGE",  "id":22430,   "ctx":"initandlisten","msg":"WiredTiger message","attr":{"message":"[1635781245:312120][1:0xffffb8d32980], txn-recover: [WT_VERB_RECOVERY_PROGRESS] Recovering log 3 through 3"}}
+[36mtodo-backend-mongo-1  |[0m {"t":{"$date":"2021-11-01T15:40:45.327+00:00"},"s":"I",  "c":"STORAGE",  "id":22430,   "ctx":"initandlisten","msg":"WiredTiger message","attr":{"message":"[1635781245:327219][1:0xffffb8d32980], txn-recover: [WT_VERB_RECOVERY | WT_VERB_RECOVERY_PROGRESS] Set global recovery timestamp: (0, 0)"}}
+[36mtodo-backend-mongo-1  |[0m {"t":{"$date":"2021-11-01T15:40:45.327+00:00"},"s":"I",  "c":"STORAGE",  "id":22430,   "ctx":"initandlisten","msg":"WiredTiger message","attr":{"message":"[1635781245:327282][1:0xffffb8d32980], txn-recover: [WT_VERB_RECOVERY | WT_VERB_RECOVERY_PROGRESS] Set global oldest timestamp: (0, 0)"}}
+[36mtodo-backend-mongo-1  |[0m {"t":{"$date":"2021-11-01T15:40:45.329+00:00"},"s":"I",  "c":"STORAGE",  "id":22430,   "ctx":"initandlisten","msg":"WiredTiger message","attr":{"message":"[1635781245:329181][1:0xffffb8d32980], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 1, snapshot max: 1 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 87"}}
+[36mtodo-backend-mongo-1  |[0m {"t":{"$date":"2021-11-01T15:40:45.333+00:00"},"s":"I",  "c":"STORAGE",  "id":4795906, "ctx":"initandlisten","msg":"WiredTiger opened","attr":{"durationMillis":955}}
+[36mtodo-backend-mongo-1  |[0m {"t":{"$date":"2021-11-01T15:40:45.333+00:00"},"s":"I",  "c":"RECOVERY", "id":23987,   "ctx":"initandlisten","msg":"WiredTiger recoveryTimestamp","attr":{"recoveryTimestamp":{"$timestamp":{"t":0,"i":0}}}}
+[36mtodo-backend-mongo-1  |[0m {"t":{"$date":"2021-11-01T15:40:45.335+00:00"},"s":"I",  "c":"STORAGE",  "id":4366408, "ctx":"initandlisten","msg":"No table logging settings modifications are required for existing WiredTiger tables","attr":{"loggingEnabled":true}}
+[36mtodo-backend-mongo-1  |[0m {"t":{"$date":"2021-11-01T15:40:45.338+00:00"},"s":"I",  "c":"STORAGE",  "id":22262,   "ctx":"initandlisten","msg":"Timestamp monitor starting"}
+[36mtodo-backend-mongo-1  |[0m {"t":{"$date":"2021-11-01T15:40:45.347+00:00"},"s":"I",  "c":"NETWORK",  "id":4915702, "ctx":"initandlisten","msg":"Updated wire specification","attr":{"oldSpec":{"incomingExternalClient":{"minWireVersion":0,"maxWireVersion":13},"incomingInternalClient":{"minWireVersion":0,"maxWireVersion":13},"outgoing":{"minWireVersion":0,"maxWireVersion":13},"isInternalClient":true},"newSpec":{"incomingExternalClient":{"minWireVersion":0,"maxWireVersion":13},"incomingInternalClient":{"minWireVersion":13,"maxWireVersion":13},"outgoing":{"minWireVersion":13,"maxWireVersion":13},"isInternalClient":true}}}
+[36mtodo-backend-mongo-1  |[0m {"t":{"$date":"2021-11-01T15:40:45.347+00:00"},"s":"I",  "c":"STORAGE",  "id":5071100, "ctx":"initandlisten","msg":"Clearing temp directory"}
+[36mtodo-backend-mongo-1  |[0m {"t":{"$date":"2021-11-01T15:40:45.347+00:00"},"s":"I",  "c":"CONTROL",  "id":20536,   "ctx":"initandlisten","msg":"Flow Control is enabled on this deployment"}
+[36mtodo-backend-mongo-1  |[0m {"t":{"$date":"2021-11-01T15:40:45.349+00:00"},"s":"I",  "c":"FTDC",     "id":20625,   "ctx":"initandlisten","msg":"Initializing full-time diagnostic data capture","attr":{"dataDirectory":"/data/db/diagnostic.data"}}
+[36mtodo-backend-mongo-1  |[0m {"t":{"$date":"2021-11-01T15:40:45.353+00:00"},"s":"I",  "c":"NETWORK",  "id":23015,   "ctx":"listener","msg":"Listening on","attr":{"address":"/tmp/mongodb-27017.sock"}}
+[36mtodo-backend-mongo-1  |[0m {"t":{"$date":"2021-11-01T15:40:45.353+00:00"},"s":"I",  "c":"NETWORK",  "id":23015,   "ctx":"listener","msg":"Listening on","attr":{"address":"0.0.0.0"}}
+[36mtodo-backend-mongo-1  |[0m {"t":{"$date":"2021-11-01T15:40:45.353+00:00"},"s":"I",  "c":"NETWORK",  "id":23016,   "ctx":"listener","msg":"Waiting for connections","attr":{"port":27017,"ssl":"off"}}
+^CGracefully stopping... (press Ctrl+C again to force)
+[1A[1B[0G[?25l[+] Running 0/0
+[37m ⠋ Container todo-backend-mongo-1  Stopping                                              0.1s
+[0m[?25h[1A[1A[0G[?25l[34m[+] Running 1/1[0m
+[34m ⠿ Container todo-backend-mongo-1  Stopped                                               0.2s
+[0m[?25hcanceled
+[1m[7m%[27m[1m[0m                                                                                              ]7;file://Ameyas-MacBook-Air.local/Users/ameya/dev/part12-containers-applications/todo-app/todo-backend]2;ameya@Ameyas-MacBook-Air]1;../todo-backend]7;file://Ameyas-MacBook-Air.local/Users/ameya/dev/part12-containers-applications/todo-app/todo-backend[0m[27m[24m[J[01;31m➜  [36mtodo-backend[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hdocker-compose -f docker-compose.dev.yml up- docker-compose.dev.yml up[26D[P[26C [27D[1C docker-compose.dev.yml up[26D- docker-compose.dev.yml up[26Dd docker-compose.dev.yml up[26D[?1l>[?2004l
+]2;docker-compose -f -d docker-compose.dev.yml up]1;docker-composestat /Users/ameya/dev/part12-containers-applications/todo-app/todo-backend/-d: no such file or directory
+[1m[7m%[27m[1m[0m                                                                                              ]7;file://Ameyas-MacBook-Air.local/Users/ameya/dev/part12-containers-applications/todo-app/todo-backend]2;ameya@Ameyas-MacBook-Air]1;../todo-backend]7;file://Ameyas-MacBook-Air.local/Users/ameya/dev/part12-containers-applications/todo-app/todo-backend[0m[27m[24m[J[01;31m➜  [36mtodo-backend[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hdocker-compose -f -d docker-compose.dev.yml up[P[25C [26D[P[24C [26D[P[25C [26D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C [90m-d[39m[39m-[39md[?1l>[?2004l
+]2;docker-compose -f docker-compose.dev.yml up -d]1;docker-compose[33mWARN[0m[0000] Found orphan containers ([todo-backend-app-1]) for this project. If you removed or renamed this service in your compose file, you can run this command with the --remove-orphans flag to clean it up. 
+[1A[1B[0G[?25l[+] Running 0/0
+[37m ⠿ Container todo-backend-mongo-1  Starting                                              0.0s
+[0m[?25h[1A[1A[0G[?25l[+] Running 0/1
+[37m ⠿ Container todo-backend-mongo-1  Starting                                              0.1s
+[0m[?25h[1A[1A[0G[?25l[+] Running 0/1
+[37m ⠿ Container todo-backend-mongo-1  Starting                                              0.2s
+[0m[?25h[1A[1A[0G[?25l[34m[+] Running 1/1[0m
+[34m ⠿ Container todo-backend-mongo-1  Started                                               0.3s
+[0m[?25h[1m[7m%[27m[1m[0m                                                                                              ]7;file://Ameyas-MacBook-Air.local/Users/ameya/dev/part12-containers-applications/todo-app/todo-backend]2;ameya@Ameyas-MacBook-Air]1;../todo-backend]7;file://Ameyas-MacBook-Air.local/Users/ameya/dev/part12-containers-applications/todo-app/todo-backend[0m[27m[24m[J[01;32m➜  [36mtodo-backend[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[H[2J[0m[27m[24m[J[01;32m➜  [36mtodo-backend[00m [01;34mgit:([31mmain[34m) [33m✗[00m [Kdd[90mocker-compose -f docker-compose.dev.yml up -d[39m[45Dd[39mo[39mc[39mk[39me[39mr[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39D[90mcontainer stop nginx-runner[39m[27D[39mc[39mo[39mn[39mt[39ma[39mi[39mn[39me[39mr[39m [39ml[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [16D[90ms[39m[39ms[?1l>[?2004l
+]2;docker container ls]1;dockerCONTAINER ID   IMAGE     COMMAND                  CREATED       STATUS          PORTS                     NAMES
+b281fa2492c7   mongo     "docker-entrypoint.s…"   5 hours ago   Up 23 seconds   0.0.0.0:3456->27017/tcp   todo-backend-mongo-1
+[1m[7m%[27m[1m[0m                                                                                              ]7;file://Ameyas-MacBook-Air.local/Users/ameya/dev/part12-containers-applications/todo-app/todo-backend]2;ameya@Ameyas-MacBook-Air]1;../todo-backend]7;file://Ameyas-MacBook-Air.local/Users/ameya/dev/part12-containers-applications/todo-app/todo-backend[0m[27m[24m[J[01;32m➜  [36mtodo-backend[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hdd[90mocker container ls[39m[18Dd[39mo[39mc[39mk[39me[39mr[39m [39me[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [11D[90mxec -it 45fa655ac30bc443a12731862d243be566f1e306dc26bfb93[90m0[90m142841023895ef bash[39m[K[A[17C[39mx[39me[39mc[39m [39mo[K[1B[K[A[42Ct  [90m-it 45fa655ac30bc443a12731862d243be566f1e306dc26bfb93[90m0[90m142841023895ef bash[39m[K[A[21C[39m-[39mi[39mt[39m [39mt[K[1B[K[A[46Codo-backend-mongo1 -1[?1l>[?2004l[1B]2;docker exec -it todo-backend-mongo-1]1;docker"docker exec" requires at least 2 arguments.
+See 'docker exec --help'.
+
+Usage:  docker exec [OPTIONS] CONTAINER COMMAND [ARG...]
+
+Run a command in a running container
+[1m[7m%[27m[1m[0m                                                                                              ]7;file://Ameyas-MacBook-Air.local/Users/ameya/dev/part12-containers-applications/todo-app/todo-backend]2;ameya@Ameyas-MacBook-Air]1;../todo-backend]7;file://Ameyas-MacBook-Air.local/Users/ameya/dev/part12-containers-applications/todo-app/todo-backend[0m[27m[24m[J[01;31m➜  [36mtodo-backend[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hdocker exec -it todo-backend-mongo-1[1C[1C[1C bash[?1l>[?2004l
+]2;docker exec -it todo-backend-mongo-1 bash]1;docker]0;root@b281fa2492c7: /root@b281fa2492c7:/# mongo
+MongoDB shell version v5.0.3
+connecting to: mongodb://127.0.0.1:27017/?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("5d51736a-34ff-455c-a1f2-5ad270a77a96") }
+MongoDB server version: 5.0.3
+================
+Warning: the "mongo" shell has been superseded by "mongosh",
+which delivers improved usability and compatibility.The "mongo" shell has been deprecated and will be removed in
+an upcoming release.
+We recommend you begin using "mongosh".
+For installation instructions, see
+https://docs.mongodb.com/mongodb-shell/install/
+================
+Welcome to the MongoDB shell.
+For interactive help, type "help".
+For more comprehensive documentation, see
+	https://docs.mongodb.com/
+Questions? Try the MongoDB Developer Community Forums
+	https://community.mongodb.com
+> show dps[3G[Jshow dps[11G
+uncaught exception: Error: don't know how to show [dps] :
+shellHelper.show@src/mongo/shell/utils.js:1211:11
+shellHelper@src/mongo/shell/utils.js:838:15
+@(shellhelp2):1:1
+> [3G[Jshow dps[11G[3G[Jshow dp[10G[3G[Jshow d[9Gbs[3G[Jshow dbs[11G
+> exit[3G[Jexit[7G
+bye
+]0;root@b281fa2492c7: /root@b281fa2492c7:/# mongo -u root -p example
+MongoDB shell version v5.0.3
+connecting to: mongodb://127.0.0.1:27017/?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("fa3fa0da-eda5-4bf6-b109-5a47e6927755") }
+MongoDB server version: 5.0.3
+================
+Warning: the "mongo" shell has been superseded by "mongosh",
+which delivers improved usability and compatibility.The "mongo" shell has been deprecated and will be removed in
+an upcoming release.
+We recommend you begin using "mongosh".
+For installation instructions, see
+https://docs.mongodb.com/mongodb-shell/install/
+================
+---
+The server generated these startup warnings when booting: 
+        2021-11-01T15:41:49.731+00:00: Using the XFS filesystem is strongly recommended with the WiredTiger storage engine. See http://dochub.mongodb.org/core/prodnotes-filesystem
+---
+---
+        Enable MongoDB's free cloud-based monitoring service, which will then receive and display
+        metrics about your deployment (disk utilization, CPU, operation statistics, etc).
+
+        The monitoring data will be available on a MongoDB website with a unique URL accessible to you
+        and anyone you share the URL with. MongoDB may use this information to make product
+        improvements and to suggest MongoDB products and deployment options to you.
+
+        To enable free monitoring, run the following command: db.enableFreeMonitoring()
+        To permanently disable this reminder, run the following command: db.disableFreeMonitoring()
+---
+> [3G[Jshow dbs[11G[3G[Jshow dbs[11G
+admin         0.000GB
+config        0.000GB
+local         0.000GB
+the_database  0.000GB
+> use the_database[3G[Juse the_database[19G
+switched to db the_database
+> show collections[3G[Jshow collections[19G
+todos
+> db.todos.find({})[3G[Jdb.todos.find({})[20G
+{ "_id" : ObjectId("617fc9dfe7477817a32d6736"), "text" : "No Write Code", "done" : false }
+{ "_id" : ObjectId("617fc9dfe7477817a32d6737"), "text" : "Learn about containers", "done" : false }
+> db.todos.insertOne([3G[Jdb.todos.insertOne([22G
+... { "text":"Increase the number of tools in my toolbelt", "done":false})[5G[J{ "text":"Increase the number of tools in my toolbelt", "done":false})[75G
+{
+	"acknowledged" : true,
+	"insertedId" : ObjectId("61800c57e628756be5ebb8c0")
+}
+> [3G[Jdb.todos.insertOne( { "text":"Increase the number of tools in my toolbelt", "done":false})[93G[3G[Jdb.todos.find({})[20G[3G[Jdb.todos.find({})[20G
+{ "_id" : ObjectId("617fc9dfe7477817a32d6736"), "text" : "No Write Code", "done" : false }
+{ "_id" : ObjectId("617fc9dfe7477817a32d6737"), "text" : "Learn about containers", "done" : false }
+{ "_id" : ObjectId("61800c57e628756be5ebb8c0"), "text" : "Increase the number of tools in my toolbelt", "done" : false }
+> exit[3G[Jexit[7G
+bye
+]0;root@b281fa2492c7: /root@b281fa2492c7:/# exit
+exit
+[1m[7m%[27m[1m[0m                                                                                              ]7;file://Ameyas-MacBook-Air.local/Users/ameya/dev/part12-containers-applications/todo-app/todo-backend]2;ameya@Ameyas-MacBook-Air]1;../todo-backend]7;file://Ameyas-MacBook-Air.local/Users/ameya/dev/part12-containers-applications/todo-app/todo-backend[0m[27m[24m[J[01;32m➜  [36mtodo-backend[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hee[90mxit[39me[39mx[39mi[39mt[?1l>[?2004l
+]2;exit]1;exit
+Saving session...completed.
+Deleting expired sessions...none found.
+
+Script done on Mon Nov  1 21:19:49 2021
